@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jishnu6999
+- 👋 Hi, I’m Jishnuvardhan Karpuram
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C#,C++,C,Python,SQL,HTML,JavaScript
 - 💞️ I’m looking to collaborate on Difffent type of projects where i can learn new things
